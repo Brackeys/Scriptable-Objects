@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: fd02d47381337754b97919c3b7695d40
+timeCreated: 1513594926
+licenseType: Pro
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: ITC Franklin Gothic
+  fontNames:
+  - ITC Franklin Gothic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
